@@ -69,7 +69,7 @@ Every critical function implements the **PACE** standard from high-reliability m
 
 I, **Charles Austin**, serve as the **Principal Solutions Architect** for this repository.
 
-While AI tools (LLMs) were used to accelerate syntax generation and boilerplate reduction, every architectural decision, logic gate, and safety constraint originates from my domain expertise in **Systems Engineering** and **14J/Air Defense** protocols.
+While AI tools (LLMs) were used to accelerate syntax generation and boilerplate reduction, every architectural decision, logic gate, and safety constraint originates from my domain expertise in **Systems Engineering**, **Human Systems Integration**, and **Aerospace and Missile Defense** protocols.
 
 I certify that this codebase is:
 
